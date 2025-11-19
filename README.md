@@ -1,7 +1,7 @@
 👋 Hi, I’m Justin “J.Rod” Roden
 AI Solutions Engineer | Rocket Engine Test Engineer | Industrial Builder | Consultant
 🧑‍🚀 Aerospace Career — Rocket Engine Test Engineering
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/2560px-SpaceX-Logo.svg.png" height="70"/> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Blue_Origin_logo.svg/2560px-Blue_Origin_logo.svg.png" height="70"/> </p>
+SpaceX & BlueOrigin
 
 Before transitioning into AI and full-stack engineering, I spent years as a Rocket Engine Test Engineer supporting world-class aerospace programs at SpaceX and Blue Origin.
 
