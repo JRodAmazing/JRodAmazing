@@ -1,85 +1,85 @@
 👋 Hi, I’m Justin “J.Rod” Roden
 AI Solutions Engineer | Rocket Engine Test Engineer | Industrial Builder | Consultant
-🧑‍🚀 Aerospace Career — Rocket Engine Test Engineering
-SpaceX & BlueOrigin
+🧑‍🚀 Aerospace Background — Rocket Engine Test Engineer
 
-Before transitioning into AI and full-stack engineering, I spent years as a Rocket Engine Test Engineer supporting world-class aerospace programs at SpaceX and Blue Origin.
+Before transitioning fully into AI and software engineering, I spent years working in rocket propulsion test operations — supporting engine development, troubleshooting, test systems, and flight-readiness checks.
 
 Highlights
 
-🟦 12+ official SpaceX mission patches
+🚀 12+ successful SpaceX mission patches
 
-🟧 Direct involvement in engine test ops, data review, development cycles, and payload readiness
+🛠 Hands-on work with engine test stands, cryogenic systems, high-pressure fluids, telemetry, and ignition systems
 
-🚀 Supported engine development teams in preparing rockets for successful launch
+🔍 Supported engine development teams in pre-flight verification and troubleshooting
 
-🔧 Responsible for engine checkouts, troubleshooting, operational verification, and flight readiness procedures
+🟦 Helped prepare rockets and payload systems for launch
 
-🛠 Worked on Blue Origin’s early startup test infrastructure, helping set up systems for initial flight series
+🟨 Played a role in Blue Origin’s early startup test operations, assisting with engine readiness and test stand setup
 
-📡 Deep exposure to telemetry, test systems, high-pressure fluids, cryogenic handling, and flight-critical systems
+🛰 High-stakes troubleshooting where precision = mission success
 
-Aerospace sharpened my mindset:
-precision, speed, systems thinking, and zero-failure tolerance.
+Aerospace gave me a mindset built on:
+precision, calm under pressure, systems thinking, and zero-failure tolerance.
 
-🏗️ Construction & Industrial Leadership
-(Icon Section With Clear Visual Breaks)
+🏗️ Construction, Heavy Equipment & Industrial Leadership
+🛠️ Heavy Equipment / Field Operations
 
-🛠️ Heavy Equipment & Field Ops
+⚙️ Mechanical + electrical diagnostics
 
-⚙️ Diesel/hydraulic diagnostics
+🚜 Earthwork, civil, utilities & infrastructure operations
 
-🚜 Earthwork, utilities, and civil operations
+🔧 Hydraulic & diesel troubleshooting
 
-🏗️ Project controls for multi-million-dollar builds
+🏗️ Working with crews, fleets, field dynamics & real-world constraints
 
-🔩 Fleet management & heavy machinery troubleshooting
+📍 Problem-solving in tight timelines and chaotic environments
 
-🔌 Electrical + mechanical field repairs
+🏢 Enterprise Leadership / Executive Roles
 
-🏢 Executive & Enterprise Experience
+📊 Operations oversight & strategy
 
-📊 Operations oversight
+📝 Estimating, budget control & bid support
 
-🧩 Workflow optimization
+🔄 Workflow design & multi-department coordination
 
-🧱 Multi-department systems integration
+🧱 Vendor + subcontractor relationships
 
-🧾 Estimating & budget controls
-
-🛰️ Vendor + subcontractor coordination
-
-🔭 Strategic problem-solving at scale
+🧩 Turning large messy systems into efficient processes
 
 💼 Consultant Work
 
-🧠 Business process automation
-
-🌐 Digital transformation
-
-🛠️ Industrial systems modernization
+🧠 Business process optimization
 
 🔍 Field operations analysis
 
-🏎️ Rapid deployment of custom tooling
+🛠 System modernization
 
-🤖 AI Solutions Engineer — What I Build
+🌐 Digital transformation
 
-I combine field experience + aerospace discipline + enterprise strategy + full-stack engineering to build AI-driven solutions that reduce friction, automate workflows, and deliver real ROI.
+⚡ Rapid deployment of custom solutions
 
-I design and ship:
+This phase of my career built my ability to read systems, people, operations, and business pressure points.
 
-🧬 AI-powered operational systems
+🤖 AI Solutions Engineer — What I Do Today
 
-🔄 Automation layers for chaotic industrial workflows
+I take everything from mechanics → construction → aerospace → enterprise operations and layer it with modern engineering and AI.
+
+I build intelligent solutions such as:
+
+🧬 AI-driven operational workflows
+
+🔄 Automation layers for high-friction workflows
+
+🧱 Intelligent agents for construction, aerospace, logistics & industrial ops
 
 🖥️ Full-stack applications
 
-🧱 Agent-based tools for construction, aerospace, logistics & industrial ops
+🚦 Predictive logic, system orchestration & real-time analysis
 
-🛰️ Predictive logic + system orchestration
+🛠 Tools operators, PMs, execs, and field techs actually use
 
-🛠️ Tools that operators, techs, PMs, and executives actually use
+I’m not building AI hype.
+I’m building AI that gets work done.
 
 🛠️ Tech Stack — Logo Grid
 Languages
