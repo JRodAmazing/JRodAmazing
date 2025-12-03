@@ -1,111 +1,44 @@
-👋 Hi, I’m Justin “J.Rod” Roden
-AI Specialist | Rocket Engine Test Engineer | Industrial Builder | Consultant
-🧑‍🚀 Aerospace Background — Rocket Engine Test Engineer
+Justin “J.Rod” Roden
 
-Before transitioning fully into AI and software, I spent years working in rocket propulsion test operations — supporting engine development, troubleshooting test systems, and flight-readiness checks. As well as in the trenches with dozers ripping up metric tons of earth on criticle job sites, and preventing expensive downtime at peak moments. 
+AI Engineer | Former Rocket Test Engineer | Industrial Systems Builder
 
-Highlights
+I came up through field work, flight-critical engineering, and high-pressure operations before moving fully into software and AI.
 
-🚀 12+ successful SpaceX mission patches
+Before AI, I worked in rocket engine test operations, supporting development programs, test stands, and flight readiness. I’ve also spent years in heavy equipment, construction, and industrial operations fixing machines, keeping jobs moving, and solving problems when downtime was not an option.
 
-🛠 Hands-on work with engine test stands, cryogenic systems, high-pressure fluids, telemetry, ignition systems, micro electrical systems, heavy iron force, prevenative main. re-design.
+I’ve worked in environments where precision matters, mistakes are expensive, and systems have to work the first time.
 
-🔍 Supported engine development teams in pre-flight verification and troubleshooting as well as helping engineering design proper equipment upgrades.
+That mindset comes with me into software.
 
-🟦 Helped prepare rockets and payload systems for launch, and helped deliver DTC coding within CPU systems. 
+Background
 
-🟨 Played a role in Blue Origin’s early startup test operations, assisting with engine readiness and test stand setup as well as new equipment releasing to public with integrated systems for excavation companies.
+I supported engine testing, diagnostics, and launch preparation for major aerospace programs. I worked with cryogenic systems, high-pressure fluid systems, instrumentation, control systems, and telemetry. I was also involved in early operations and test support during the startup phase of a major commercial space company.
 
-🛰 High-stakes troubleshooting where precision = mission success
+On the ground side, I’ve worked deep in construction, civil, and heavy equipment operations including mechanical diagnostics, hydraulic systems, diesel troubleshooting, and field leadership. I understand how crews work, how sites move, and what breaks down in high-pressure operations.
 
-Aerospace gave me a mindset built on:
-precision, calm under pressure, systems thinking, and zero-failure tolerance.
+As a consultant and technical leader, I’ve handled operations oversight, cost control, estimating, vendor relationships, and system design across multiple industries.
 
-🏗️ Construction, Heavy Equipment & Industrial Leadership
-🛠️ Heavy Equipment / Field Operations
+What I Do Now
 
-⚙️ Mechanical + electrical diagnostics
+Today, I build production AI systems.
 
-🚜 Earthwork, civil, utilities & infrastructure operations
+I design and deploy intelligence that supports real operations. Workflows that remove friction instead of adding it. Automation that respects reality. Software that people actually use.
 
-🔧 Hydraulic & diesel troubleshooting
+I build:
+AI driven operational systems
+Automation for high friction workflows
+Agent based systems for industrial environments
+Full stack applications
+Predictive logic and real time analytics
 
-🏗️ Working with crews, fleets, field dynamics & real-world constraints
+I am not here for AI hype.
 
-📍 Problem-solving in tight timelines and chaotic environments
+I build AI that gets work done.
 
-🏢 Enterprise Leadership / Executive Roles
+What Sets Me Apart
 
-📊 Operations oversight & strategy
+I combine field experience, aerospace discipline, enterprise thinking, and engineering execution. I understand operations, people, systems, and risk. I build tools that fit the world instead of forcing the world to fit the tool.
 
-📝 Estimating, budget control & bid support
+Let’s Connect
 
-🔄 Workflow design & multi-department coordination
-
-🧱 Vendor + subcontractor relationships
-
-🧩 Turning large messy systems into efficient processes
-
-💼 Consultant Work
-
-🧠 Business process optimization
-
-🔍 Field operations analysis
-
-🛠 System modernization
-
-🌐 Digital transformation
-
-⚡ Rapid deployment of custom solutions
-
-This phase of my career built my ability to read systems, people, operations, and business pressure points.
-
-🤖 AI Solutions Engineer — What I Do Today
-
-I take everything from mechanics → construction → aerospace → enterprise operations and layer it with modern engineering and AI.
-
-I build intelligent solutions such as:
-
-🧬 AI-driven operational workflows
-
-🔄 Automation layers for high-friction workflows
-
-🧱 Intelligent agents for construction, aerospace, logistics & industrial ops
-
-🖥️ Full-stack applications
-
-🚦 Predictive logic, system orchestration & real-time analysis
-
-🛠 Tools operators, PMs, execs, and field techs actually use
-
-I’m not building AI hype.
-I’m building AI that gets work done.
-
-🛠️ Tech Stack — Logo Grid
-Languages
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/> </p>
-Frontend
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/> </p>
-Backend
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> </p>
-DevOps / Infra
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/> </p>
-AI / ML & Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=openai" height="40"/> <img src="https://skillicons.dev/icons?i=python" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> </p>
-🔥 What Makes Me Different
-
-Blue-collar grit → Oilfield + heavy mechanics
-
-Precision mindset → Aerospace rocket operations
-
-Enterprise strategy → Construction leadership
-
-Deep execution → Software engineering + AI
-
-Ability to see the entire system and build the missing tools
-
-Fast, iterative, real-world problem solving
-
-📬 Let’s Connect
-
-If you're building anything in AI, aerospace, robotics, construction tech, industrial automation, or high-stakes operations, I’m open to collaborate.
+If you are working in AI, aerospace, construction tech, robotics, or industrial systems, I’m open to connect and collaborate.
