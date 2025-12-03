@@ -1,20 +1,20 @@
 👋 Hi, I’m Justin “J.Rod” Roden
-AI Solutions Engineer | Rocket Engine Test Engineer | Industrial Builder | Consultant
+AI Specialist | Rocket Engine Test Engineer | Industrial Builder | Consultant
 🧑‍🚀 Aerospace Background — Rocket Engine Test Engineer
 
-Before transitioning fully into AI and software engineering, I spent years working in rocket propulsion test operations — supporting engine development, troubleshooting, test systems, and flight-readiness checks.
+Before transitioning fully into AI and software, I spent years working in rocket propulsion test operations — supporting engine development, troubleshooting test systems, and flight-readiness checks. As well as in the trenches with dozers ripping up metric tons of earth on criticle job sites, and preventing expensive downtime at peak moments. 
 
 Highlights
 
 🚀 12+ successful SpaceX mission patches
 
-🛠 Hands-on work with engine test stands, cryogenic systems, high-pressure fluids, telemetry, and ignition systems
+🛠 Hands-on work with engine test stands, cryogenic systems, high-pressure fluids, telemetry, ignition systems, micro electrical systems, heavy iron force, prevenative main. re-design.
 
-🔍 Supported engine development teams in pre-flight verification and troubleshooting
+🔍 Supported engine development teams in pre-flight verification and troubleshooting as well as helping engineering design proper equipment upgrades.
 
-🟦 Helped prepare rockets and payload systems for launch
+🟦 Helped prepare rockets and payload systems for launch, and helped deliver DTC coding within CPU systems. 
 
-🟨 Played a role in Blue Origin’s early startup test operations, assisting with engine readiness and test stand setup
+🟨 Played a role in Blue Origin’s early startup test operations, assisting with engine readiness and test stand setup as well as new equipment releasing to public with integrated systems for excavation companies.
 
 🛰 High-stakes troubleshooting where precision = mission success
 
